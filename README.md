@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi! Welcome to my github page. 👋
 
-<!--
-**BerkanSE/BerkanSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Berkan Senger. Electrical & Electronics Engineer
 
-Here are some ideas to get you started:
+## Graduation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+B.S in Electrical & Electronics Engineer | [The University of Balıkesir](http://www.balikesir.edu.tr/)
+
+- 🎆 I’m currently working on Patika.dev - Bootcamp Hızlandırma Programı
+
+## Contact Me 📮
+
+You can find and get touch with me via Linkedin and Instagram!
+
+[![Linkedin Badge](https://img.shields.io/badge/Berkan%20Senger-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/berkan-senger/)
+[![Instagram Badge](https://img.shields.io/badge/BERKAN%20SENGER-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/berkansenger/)
