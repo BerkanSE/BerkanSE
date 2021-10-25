@@ -2,7 +2,7 @@
 
 I'm Berkan Senger. Electrical & Electronics Engineer
 
-## Graduation
+## Graduation 🏫
 
 B.S in Electrical & Electronics Engineer | [The University of Balıkesir](http://www.balikesir.edu.tr/)
 
