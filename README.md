@@ -13,6 +13,7 @@ B.S in Electrical & Electronics Engineer | [The University of Balıkesir](http:/
 #### 💻 Languages 
 
 ![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp)
+![Java](https://img.shields.io/badge/Java-black?&style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 
@@ -25,6 +26,7 @@ B.S in Electrical & Electronics Engineer | [The University of Balıkesir](http:/
 
 ![Visual Studio ](https://img.shields.io/badge/VS-black?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-black?&style=for-the-badge&logo=visual-studio-code)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse-black?&style=for-the-badge&logo=eclipse)
 
 ## Contact Me 📮
 
